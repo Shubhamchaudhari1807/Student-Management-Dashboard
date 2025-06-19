@@ -16,6 +16,8 @@ const courses = [
   { id: 4, name: 'React In Depth' },
   { id: 5, name: 'Node.js Backend' },
   { id: 6, name: 'Full Stack Development' },
+  { id: 7, name: 'Java Development' },
+  { id: 8, name: 'Dotnet development' },
 ];
 
 app.get('/api/courses', (req, res) => {
