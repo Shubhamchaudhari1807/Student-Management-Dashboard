@@ -1,4 +1,4 @@
-gy# Student Dashboard Application
+# Student Dashboard Application
 
 This project is for managing student information. It includes a React frontend and an Express backend.
 
