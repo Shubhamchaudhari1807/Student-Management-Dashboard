@@ -1,4 +1,4 @@
-# Student Dashboard Application
+gy# Student Dashboard Application
 
 This project is for managing student information. It includes a React frontend and an Express backend.
 
@@ -212,4 +212,4 @@ The frontend will run on `http://localhost:3000`.
 
 ```
 
-This README provides a comprehensive guide to set up and run the project. Adjust the repository URL and any specific instructions as needed for your actual project setup.
+This README provides a comprehensive guide to set up and run the project. 
