@@ -16,7 +16,7 @@ This project is for managing student information. It includes a React frontend a
 
 - **Backend**: Express.js
 
-- **API Communication**: Axios (or fetch)
+- **API Communication**: fetch
 
 ## Project Structure
 
